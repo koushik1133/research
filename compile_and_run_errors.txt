@@ -1,0 +1,48 @@
+❌ Compilation failed: s001061911.cpp (Model: Qwen/Qwen3-0.6B)
+---- Compile stderr ----
+Compilation skipped on macOS
+
+❌ Compilation failed: s002114670.cpp (Model: Qwen/Qwen3-0.6B)
+---- Compile stderr ----
+Compilation skipped on macOS
+
+❌ Compilation failed: s003006852.cpp (Model: Qwen/Qwen3-0.6B)
+---- Compile stderr ----
+Compilation skipped on macOS
+
+❌ Compilation failed: s004707294.cpp (Model: Qwen/Qwen3-0.6B)
+---- Compile stderr ----
+Compilation skipped on macOS
+
+❌ Compilation failed: s010845670.cpp (Model: Qwen/Qwen3-0.6B)
+---- Compile stderr ----
+Compilation skipped on macOS
+
+❌ Compilation failed: s022801097.cpp (Model: Qwen/Qwen3-0.6B)
+---- Compile stderr ----
+Compilation skipped on macOS
+
+❌ Compilation failed: s024128016.cpp (Model: Qwen/Qwen3-0.6B)
+---- Compile stderr ----
+Compilation skipped on macOS
+
+❌ Compilation failed: s934624544.cpp (Model: Qwen/Qwen3-0.6B)
+---- Compile stderr ----
+Compilation skipped on macOS
+
+❌ Compilation failed: s936772539.cpp (Model: Qwen/Qwen3-0.6B)
+---- Compile stderr ----
+Compilation skipped on macOS
+
+❌ Compilation failed: s937249506.cpp (Model: Qwen/Qwen3-0.6B)
+---- Compile stderr ----
+Compilation skipped on macOS
+
+❌ Compilation failed: s940954942.cpp (Model: Qwen/Qwen3-0.6B)
+---- Compile stderr ----
+Compilation skipped on macOS
+
+❌ Compilation failed: s941439692.cpp (Model: Qwen/Qwen3-0.6B)
+---- Compile stderr ----
+Compilation skipped on macOS
+
