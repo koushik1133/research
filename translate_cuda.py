@@ -17,8 +17,8 @@ MODELS = [
 ]
 INPUT_FOLDER = "input_codes"
 OUTPUT_BASE_DIR = "output_cuda"
-NUM_C_FILES = 0
-NUM_CPP_FILES = 12
+NUM_C_FILES = 3
+NUM_CPP_FILES = 9
 os.environ["TOKENIZERS_PARALLELISM"] = "false"  # Fix parallelism warning
 
 # ----- LOAD MODEL -----
